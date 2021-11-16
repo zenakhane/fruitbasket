@@ -1,1 +1,1 @@
-# fruitbasket
+[![Build Status](https://app.travis-ci.com/zenakhane/fruitbasket.svg?branch=main)](https://app.travis-ci.com/zenakhane/fruitbasket)
