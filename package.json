@@ -1,0 +1,28 @@
+{
+  "name": "fruitbasket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gist.github.com/bd590e93de43442aa5153bd169ff49ca.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gist.github.com/bd590e93de43442aa5153bd169ff49ca"
+  },
+  "homepage": "https://gist.github.com/bd590e93de43442aa5153bd169ff49ca",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.7.1"
+  }
+}
